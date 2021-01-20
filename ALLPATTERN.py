@@ -1,6 +1,9 @@
 # PATTERN
 #THIS IS FIRST PROGRAM
 
+jay mataji
+
+
 print("How Many Number You Want To Print Pattern\n""Enter A Number\n",)
 n= int(input())
 def pattern(n):
